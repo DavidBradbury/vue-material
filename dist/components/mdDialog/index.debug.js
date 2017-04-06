@@ -636,7 +636,7 @@ var Component = __webpack_require__(0)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdDialog/mdDialog.vue"
+Component.options.__file = "/Users/david.bradbury/Documents/forks/vue-material/src/components/mdDialog/mdDialog.vue"
 if (Component.esModule && Object.keys(Component.esModule).some((function (key) {return key !== "default" && key !== "__esModule"}))) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] mdDialog.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -671,7 +671,7 @@ var Component = __webpack_require__(0)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdDialog/mdDialogActions.vue"
+Component.options.__file = "/Users/david.bradbury/Documents/forks/vue-material/src/components/mdDialog/mdDialogActions.vue"
 if (Component.esModule && Object.keys(Component.esModule).some((function (key) {return key !== "default" && key !== "__esModule"}))) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] mdDialogActions.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -706,7 +706,7 @@ var Component = __webpack_require__(0)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdDialog/mdDialogContent.vue"
+Component.options.__file = "/Users/david.bradbury/Documents/forks/vue-material/src/components/mdDialog/mdDialogContent.vue"
 if (Component.esModule && Object.keys(Component.esModule).some((function (key) {return key !== "default" && key !== "__esModule"}))) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] mdDialogContent.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -741,7 +741,7 @@ var Component = __webpack_require__(0)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdDialog/mdDialogTitle.vue"
+Component.options.__file = "/Users/david.bradbury/Documents/forks/vue-material/src/components/mdDialog/mdDialogTitle.vue"
 if (Component.esModule && Object.keys(Component.esModule).some((function (key) {return key !== "default" && key !== "__esModule"}))) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] mdDialogTitle.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -776,7 +776,7 @@ var Component = __webpack_require__(0)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdDialog/presets/mdDialogAlert.vue"
+Component.options.__file = "/Users/david.bradbury/Documents/forks/vue-material/src/components/mdDialog/presets/mdDialogAlert.vue"
 if (Component.esModule && Object.keys(Component.esModule).some((function (key) {return key !== "default" && key !== "__esModule"}))) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] mdDialogAlert.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -811,7 +811,7 @@ var Component = __webpack_require__(0)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdDialog/presets/mdDialogConfirm.vue"
+Component.options.__file = "/Users/david.bradbury/Documents/forks/vue-material/src/components/mdDialog/presets/mdDialogConfirm.vue"
 if (Component.esModule && Object.keys(Component.esModule).some((function (key) {return key !== "default" && key !== "__esModule"}))) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] mdDialogConfirm.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -846,7 +846,7 @@ var Component = __webpack_require__(0)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/mrufino/Projects/personal/github/vue-material/src/components/mdDialog/presets/mdDialogPrompt.vue"
+Component.options.__file = "/Users/david.bradbury/Documents/forks/vue-material/src/components/mdDialog/presets/mdDialogPrompt.vue"
 if (Component.esModule && Object.keys(Component.esModule).some((function (key) {return key !== "default" && key !== "__esModule"}))) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] mdDialogPrompt.vue: functional components are not supported with templates, they should use render functions.")}
 

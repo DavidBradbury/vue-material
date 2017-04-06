@@ -54,6 +54,9 @@
 
 @mixin layout-xsmall-and-up {
   @warn "xsmall and up includes everything.";
+  @media (min-width: 0) {
+    @content;
+  }
 }
 
 /* The min-width breakpoint for small (since we're including small) is the breakpoint for xsmall */
@@ -78,4 +81,7 @@
 
 @mixin layout-xlarge-and-up {
   @warn "xlarge is the largest value. Please use layout-xlarge.";
+  @media (min-width: #{$breakpoint-large}) {
+    @content;
+  }
 }
